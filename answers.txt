@@ -11,3 +11,7 @@ Answer: Data science is really useful in medicine as analyzing patient records a
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines two different branches that preserves the full branch history while rebasing moves commits onto another branch with no merge commit.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to strengthening my data science skills for building meaningful AI/ML projects. 
